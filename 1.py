@@ -1,5 +1,6 @@
 def my_superfunction():
-    print('Приветствуем лицеистов')
+    print('для слияния')
+
 
 my_superfunction()
 print('изменение')
